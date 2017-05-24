@@ -11,7 +11,7 @@ redirect_from:
 EDUACATION
 ======
 * B.S. in Microelectronics, Shanghai Jiao Tong Univeristy, 2017
-* M.S. in Electrical Engineering, University of Washington, 2019 (expected)
+* M.S. in Computer Science, University of Washington, 2019 (expected)
 
 HONORS & AWARDS
 ======
