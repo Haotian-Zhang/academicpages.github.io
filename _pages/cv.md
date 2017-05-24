@@ -29,21 +29,21 @@ HONORS & AWARDS
 RESEARCH EXPERIENCE
 ======
 * The 26th PRP, SJTU  
-  My work mainly focused on fiber-optic communication, supervised by Prof. Chun, Jiang
-  * Undergraduate Research Assistant, “Design of a Fiber Laser using Graphene Core”.
+  My work mainly focused on fiber-optic communication, supervised by Prof. Chun, Jiang  
+  ***Undergraduate Research Assistant***, “Design of a Fiber Laser using Graphene Core”.
     * Aimed at realizing the minimum threshold power in existing lasers.
     * Developed a Low-power consumption optical fiber device.
 
 * Lab Research, Center for Microwave and RF Technologies (CMRFT)  
-  My research mainly based on electromagnetic and microwave, supervised by Prof. Min, Tang & Prof. Junfa,Mao
-  * Undergraduate Research Assistant, “Study on Carbon-Based Interconnects in Nanoscale Integrated Circuits”.
+  My research mainly based on electromagnetic and microwave, supervised by Prof. Min, Tang & Prof. Junfa,Mao  
+  ***Undergraduate Research Assistant***, “Study on Carbon-Based Interconnects in Nanoscale Integrated Circuits”.
     * Simplified equivalent single-conductor models for carbon-based Interconnects.
     * Developed Fast algorithms for evaluating delay and crosstalk performance.
     * Considered both electrical and thermal effects on Multi-physics modeling.
 
 * The Chun-Tsung Program, SJTU  
-  Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)
-  * Chun-Tsung Scholar, “Study on Carbon- Based Interconnects in Nanoscale Integrated Circuits”.
+  Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)  
+  ***Chun-Tsung Scholar***, “Study on Carbon- Based Interconnects in Nanoscale Integrated Circuits”.
     * Supported by the famous Nobel Laureate Physicist Tsung-Dao Lee.
     * Only 15 students among the all in SJTU can be chosen for this program annually.
 
@@ -51,8 +51,8 @@ RESEARCH EXPERIENCE
 ======
 **THE DEPARTMENT OF ELECTRICAL ENGINEERING, UNIVERSITY OF WASHINGTON**, Seattle, WA  
   ***Student Captain***
-  * SJTU Electrical Engineering Summer Intensive Program lasts for 45 days.
-  * Got the GPA of 4.0/4.0 on EE299: Basic Circuit Theory, and 3.9/4.0 on EE229: C and Introduction to Microprocessors.
+    * SJTU Electrical Engineering Summer Intensive Program lasts for 45 days.
+    * Got the GPA of 4.0/4.0 on EE299: Basic Circuit Theory, and 3.9/4.0 on EE229: C and Introduction to Microprocessors.
 
 INTERNSHIP
 ======
