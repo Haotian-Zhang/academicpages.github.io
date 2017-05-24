@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : “haotian.zhang”
+  facebook         : &haotian.zhang
   foursquare       :
   github           : "haotian-zhang"
   google_plus      :
@@ -105,7 +105,7 @@ author:
   tumblr           :
   #twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : “1817180970”
+  weibo            : &1817180970
   xing             :
   youtube          :
   wikipedia        : 
