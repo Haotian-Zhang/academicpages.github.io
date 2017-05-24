@@ -55,8 +55,8 @@ RESEARCH EXPERIENCE
 INTERNSHIP
 ======
 ***AGORA.IO***, Shanghai  
-**Agora.io is a startup company which has a history of over 20 years in VOIP industry**  
-***Software Programmer and Tester***  
+Agora.io is a startup company which has a history of over 20 years in VOIP industry  
+  ***Software Programmer and Tester***
   * Provide SDK on all platforms (ios, mac os x) for live video chat, HD voice conferencing and live broadcast.
   * Data mining on SDK daily session and analyzed the crash rate.
   * Build a self-automation testing system.
