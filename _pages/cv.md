@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-  
-
 EDUACATION
 ======
 * B.S. in Microelectronics, Shanghai Jiao Tong Univeristy, 2017
@@ -29,20 +27,20 @@ HONORS & AWARDS
 RESEARCH EXPERIENCE
 ======
 * The 26th PRP, SJTU  
-  My work mainly focused on fiber-optic communication, supervised by Prof. Chun, Jiang  
+  My work mainly focused on fiber-optic communication, supervised by Prof. Chun, Jiang.  
   ***Undergraduate Research Assistant***, “Design of a Fiber Laser using Graphene Core”.
     * Aimed at realizing the minimum threshold power in existing lasers.
     * Developed a Low-power consumption optical fiber device.
 
 * Lab Research, Center for Microwave and RF Technologies (CMRFT)  
-  My research mainly based on electromagnetic and microwave, supervised by Prof. Min, Tang & Prof. Junfa,Mao  
+  My research mainly based on electromagnetic and microwave, supervised by Prof. Min, Tang & Prof. Junfa, Mao.  
   ***Undergraduate Research Assistant***, “Study on Carbon-Based Interconnects in Nanoscale Integrated Circuits”.
     * Simplified equivalent single-conductor models for carbon-based Interconnects.
     * Developed Fast algorithms for evaluating delay and crosstalk performance.
     * Considered both electrical and thermal effects on Multi-physics modeling.
 
 * The Chun-Tsung Program, SJTU  
-  Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)  
+  Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE).  
   ***Chun-Tsung Scholar***, “Study on Carbon- Based Interconnects in Nanoscale Integrated Circuits”.
     * Supported by the famous Nobel Laureate Physicist Tsung-Dao Lee.
     * Only 15 students among the all in SJTU can be chosen for this program annually.
@@ -50,16 +48,18 @@ RESEARCH EXPERIENCE
 RESEARCH EXPERIENCE
 ======
 **THE DEPARTMENT OF ELECTRICAL ENGINEERING, UNIVERSITY OF WASHINGTON**, Seattle, WA  
-  ***Student Captain***
-    * SJTU Electrical Engineering Summer Intensive Program lasts for 45 days.
-    * Got the GPA of 4.0/4.0 on EE299: Basic Circuit Theory, and 3.9/4.0 on EE229: C and Introduction to Microprocessors.
+  ***Student Captain***  
+  * SJTU Electrical Engineering Summer Intensive Program lasts for 45 days.
+  * Got the GPA of 4.0/4.0 on EE299: Basic Circuit Theory, and 3.9/4.0 on EE229: C and Introduction to Microprocessors.
 
 INTERNSHIP
 ======
-* Summer 2016 : Software Programmer
-  * Agora.io, a startup compant which has a history of over 20 years in the VOIP industry
-  * Duties included: Data mining, Testing automatically
-  * Supervisor: Junhao Wang
+***AGORA.IO***, Shanghai  
+**Agora.io is a startup company which has a history of over 20 years in VOIP industry**  
+***Software Programmer and Tester***  
+  * Provide SDK on all platforms (ios, mac os x) for live video chat, HD voice conferencing and live broadcast.
+  * Data mining on SDK daily session and analyzed the crash rate.
+  * Build a self-automation testing system.
   
 SKILLS
 ======
