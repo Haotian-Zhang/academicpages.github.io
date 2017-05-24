@@ -10,6 +10,6 @@ citation: 'Haotian Zhang, Min Tang, Junfa Mao. (2017). &quot;Electron-Thermal Si
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/Electron-Thermal Simulationn of Graphene Nanoribbon Interconnects.pdf)
 
 Recommended citation: Haotian Zhang, Min Tang, Junfa Mao. (2017). "Electron-Thermal Simulationn of Graphene Nanoribbon Interconnects." <i>IEEE AECS 2017 Conference</i>. 1(2).
