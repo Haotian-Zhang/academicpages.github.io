@@ -15,11 +15,11 @@ EDUACATION
 
 HONORS & AWARDS
 ======
-* International Second Prize for Mathematical Contest in Modeling(MCM), 2015
+* International Second Prize for Mathematical Contest in Modeling (MCM), 2015
 * ‘Three Good Student’ of Shanghai Jiao Tong University, 2015
 * ‘University-level outstanding student cadres’ of Shanghai Jiao Tong University, 2015
 * National Second Prize for ‘National Mathematical Contest in Modeling’, 2015
-* International First Prize for Mathematical Contest in Modeling(MCM), 2016
+* International First Prize for Mathematical Contest in Modeling (MCM), 2016
 * ‘Excellent League Leader’ of Shanghai Jiao Tong University, 2016
 * B-Level scholarship of Excellence, 2015-2017
 * Shanghai Jiao Tong University Outstanding Graduates, 2017
@@ -48,7 +48,7 @@ RESEARCH EXPERIENCE
 RESEARCH EXPERIENCE
 ======
 **THE DEPARTMENT OF ELECTRICAL ENGINEERING, UNIVERSITY OF WASHINGTON**, Seattle, WA  
-  ***Student Captain***  
+  ***Student Captain***
   * SJTU Electrical Engineering Summer Intensive Program lasts for 45 days.
   * Got the GPA of 4.0/4.0 on EE299: Basic Circuit Theory, and 3.9/4.0 on EE229: C and Introduction to Microprocessors.
 
