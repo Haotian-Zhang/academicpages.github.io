@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+  
 
-Education
+EDUACATION
 ======
 * B.S. in Microelectronics, Shanghai Jiao Tong Univeristy, 2017
 * M.S. in Electrical Engineering, University of Washington, 2019 (expected)
 
-Honors & Awards
+HONORS & AWARDS
 ======
 * International Second Prize for Mathematical Contest in Modeling(MCM), 2015
 * ‘Three Good Student’ of Shanghai Jiao Tong University, 2015
@@ -25,46 +26,57 @@ Honors & Awards
 * B-Level scholarship of Excellence, 2015-2017
 * Shanghai Jiao Tong University Outstanding Graduates, 2017
 
-Research experience
+RESEARCH EXPERIENCE
 ======
 * The 26th PRP, SJTU
+  My work mainly focused on fiber-optic communication, supervised by Prof. Chun, Jiang
   * Undergraduate Research Assistant, “Design of a Fiber Laser using Graphene Core”.
     * Aimed at realizing the minimum threshold power in existing lasers.
     * Developed a Low-power consumption optical fiber device.
 
 * Lab Research, Center for Microwave and RF Technologies (CMRFT)
+  My research mainly based on electromagnetic and microwave, supervised by Prof. Min, Tang & Prof. Junfa,Mao
   * Undergraduate Research Assistant, “Study on Carbon-Based Interconnects in Nanoscale Integrated Circuits”.
     * Simplified equivalent single-conductor models for carbon-based Interconnects.
     * Developed Fast algorithms for evaluating delay and crosstalk performance.
     * Considered both electrical and thermal effects on Multi-physics modeling.
 
 * The Chun-Tsung Program, SJTU
+  Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment (CURE)
   * Chun-Tsung Scholar, “Study on Carbon- Based Interconnects in Nanoscale Integrated Circuits”.
     * Supported by the famous Nobel Laureate Physicist Tsung-Dao Lee.
     * Only 15 students among the all in SJTU can be chosen for this program annually.
 
-Work experience
+RESEARCH EXPERIENCE
+======
+**THE DEPARTMENT OF ELECTRICAL ENGINEERING, UNIVERSITY OF WASHINGTON**, Seattle, WA
+  ***Student Captain***
+  * SJTU Electrical Engineering Summer Intensive Program lasts for 45 days.
+  * Got the GPA of 4.0/4.0 on EE299: Basic Circuit Theory, and 3.9/4.0 on EE229: C and Introduction to Microprocessors.
+
+INTERNSHIP
 ======
 * Summer 2016 : Software Programmer
   * Agora.io, a startup compant which has a history of over 20 years in the VOIP industry
   * Duties included: Data mining, Testing automatically
   * Supervisor: Junhao Wang
   
-Skills
+SKILLS
 ======
-* Software Programming
-  * Rich experience in C/C++
-  * Rich experience in Python
-  * Limited working proficiency in Django
-* Rich experience in hardware programming: MATLAB, Verilog HDL
-* Extensive skills in Microsoft Word, Excel, PowerPoint
+* Programming
+  * Rich experience in Software programming: C/C++, Python, Django
+  * Rich experience in hardware programming: MATLAB, Verilog HDL
+  * Rich experience in circuit design and simulation: Cadence Design Tools, HSPICE, etc.
+* Language
+  * Native in Mandarin Chinese
+  * Bilingual Proficiency in both written and spoken English
+  * Elementary Proficiency in Spanish (Español)
+* OTHER QUALIFICATIONS
+  * Extensive skills in Microsoft Word, Excel, PowerPoint and Latex
+  * Bilingual Proficiency in both written and spoken English
 
-Publications
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
