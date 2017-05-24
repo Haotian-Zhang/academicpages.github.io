@@ -18,4 +18,4 @@ During the summer time, he also took part in overseas program to University of W
 
 His junior year, Carl attended many social activities. He was chosen to be the delegate, being representative of SJTU to attend the World Internet Conference, where he read the Call for Action by the China-US University Students. During this conference time, Carl also discussed the development of the future Internet World and established deep friendship with American students from IVY League. 
 
-Carl believes that living an interesting university life is done by doing interesting things, and that's what he hopes to do.
+Carl believes that living an interesting college life is done by doing interesting things, and that's what he hopes to do.
