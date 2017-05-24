@@ -10,6 +10,6 @@ citation: 'Haotian Zhang, Min Tang, Junfa Mao. (2017). &quot;Electron-Thermal Si
 ---
 The electro-thermal simulation of graphene nanoribbon (GNR) interconnects is presented in this paper. The Boltzmann transport equation (BTE) is solved under the relaxation time approximation (RTA). The power density, which is obtained by the Boltzmann–Poisson approach, is used as the Joule-heating source in heat conduction equation to calculate the temperature profile along the GNR. The result is then sent back to the BTE for updating the distribution function. This process is iterated until self-consistency is achieved. Based on this method, the current-voltage characteristics of metallic GNRs with different lengths and bias conditions are investigated.
 
-[Download paper here](http://academicpages.github.io/files/Electron-Thermal Simulationn of Graphene Nanoribbon Interconnects.pdf)
+[Download paper here](http://haotian-zhang.github.io/files/Electron-Thermal Simulationn of Graphene Nanoribbon Interconnects.pdf)
 
 Recommended citation: Haotian Zhang, Min Tang, Junfa Mao. (2017). "Electron-Thermal Simulationn of Graphene Nanoribbon Interconnects." <i>IEEE AECS 2017 Conference</i>. 1(2).
