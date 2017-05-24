@@ -10,7 +10,7 @@ redirect_from:
 
 "Be Boundless."
 
-Haotian Zhang (Carl) is a junior studying Microelectronics at Shanghai Jiao Tong University (SJTU). During his freshman year at SJTU, Carl was elected as the Vice President of SEIEE Students’ Union. He was the second student to be chosen for this position historically. During which he helped to organize the annual party for freshmen and other big activities.
+Haotian Zhang (Carl) is a senior studying Microelectronics at Shanghai Jiao Tong University (SJTU). In his freshman year at SJTU, Carl was elected as the Vice President of SEIEE Students’ Union. He was the second student to be chosen for this position historically. During which he helped to organize the annual party for freshmen and other big activities.
 
 As a sophomore, he devoted himself in some research programs and been familiar with modeling of carbon-based Interconnects under the guidance of Prof. Ming Tang and Prof. Jun-fa Mao. He has built a solid background in innovative developments in this area and gained extensive laboratory skills and experience. As an undergraduate student, he has mastered the basic software skills of C/C++, Python programming, hardware language such as Verilog HDL, and simulation tools like Cadence and Hspice. Because of his hard work on research, he was honored as the Chun-Tsung Scholar, who was sponsored by the famous physicist, Nobel Laureate, Tsung-Dao Lee.
 
