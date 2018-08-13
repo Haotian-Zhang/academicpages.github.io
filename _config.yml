@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carl Zhang"
 title_separator          : "-"
 name                     : &name "Carl Zhang"
-description              : &description "Master student at University of Washington"
+description              : &description "Ph.D student at University of Washington"
 url                      : https://haotian-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haotian-zhang.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Carl Zhang"
   avatar           : "photo.jpg"
-  bio              : "Master student at University of Washington"
+  bio              : "Ph.D student at University of Washington"
   location         : "Seattle, WA"
   employer         : 
   #googlescholar   :
