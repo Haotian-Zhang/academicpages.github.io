@@ -10,7 +10,7 @@ redirect_from:
 
 "Be Boundless."
 
-Haotian (Carl) Zhang is a first-year Ph.D candidate of [Department of Electrical Enginnering](http://www.ee.washington.edu/) at University of Washington. His research interests basically include visual-SLAM (Simultaneous localization and mapping), Computer Vision, Machine (Deep) Learning. He's now a member of [Infomation Processing Lab](http://allison.ee.washington.edu/index.htm), supervised by Prof. [Jenq-Neng Hwang](http://allison.ee.washington.edu/hwang/). 
+Haotian (Carl) Zhang is a first-year Ph.D candidate of [Department of Electrical Enginnering](http://www.ee.washington.edu/) at University of Washington. His research interests basically include visual-SLAM (Simultaneous localization and mapping), Computer Vision, Machine (Deep) Learning. He's now a member of [Infomation Processing Lab](http://allison.ee.washington.edu/index.htm), supervised by Prof. [Jenq-Neng Hwang](http://allison.ee.washington.edu/hwang/). I received my B.S. degree in Electrical Engineering at Shanghai Jiao Tong University in 2017, supervised by Prof. [Jun-Fa Mao](http://english.seiees.sjtu.edu.cn/english/detail/842_765.htm).
 
 <div align="center">
 <img src="https://github.com/Haotian-Zhang/haotian-zhang.github.io/raw/master/images/personl_pic.jpg" height="300px" alt="personal_pic" > 
@@ -19,7 +19,7 @@ Haotian (Carl) Zhang is a first-year Ph.D candidate of [Department of Electrical
 <br />
 **Carl believes that living an interesting life is done by doing interesting things, and that's what he hopes to do.**
 
-If you have anything interests to share with me, feel free to drop a message below or contact [me](haotiz@uw.edu).
+If you have anything interests to share with me, feel free to drop a message below or [contact me](haotiz@uw.edu).
 
 <hr>
 <!-- LiveRe City install code -->
