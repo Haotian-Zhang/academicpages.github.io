@@ -45,7 +45,7 @@ RESEARCH EXPERIENCE
     * Supported by the famous Nobel Laureate Physicist Tsung-Dao Lee.
     * Only 15 students among the all in SJTU can be chosen for this program annually.
 
-RESEARCH EXPERIENCE
+OVERSEAS EXPERIENCE
 ======
 **THE DEPARTMENT OF ELECTRICAL ENGINEERING, UNIVERSITY OF WASHINGTON**, Seattle, WA  
   ***Student Captain***
